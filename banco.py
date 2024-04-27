@@ -254,6 +254,7 @@ def m_extrato():
     print("-" * 47)
     
     
+    
 print("-" * 20 + " BEM VINDO AO BANCO ARCHIE! " + "-" * 20)
 while True:
     operacao = input("\nSelecione sua operação:\nU = Cadastrar Usuário\nC = Cadastrar Conta\nD = Depositar\nS = Sacar\nE = Extrato\nLC = Listar contas\nLU = Listar usuários\nI = Inativar conta\nQ = Sair\n>> ")
