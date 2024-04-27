@@ -7,7 +7,6 @@ usuario_lista = []
 contas = []
 numero_conta = 1
 AGENCIA = "0001"
-#over i guess
 
 def cadastrar_usuario():
     global usuario, nome, data, cpf, logradouro, cidade, continuar_cadastro, historico, usuario_lista, estado, endereco, bairro, cpf
